@@ -1,9 +1,9 @@
 body {
 margin: 0px;
 padding: 0px;
-font color: #484848;
-font size: 14px;
-font family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+font-color: #484848;
+font-size: 14px;
+font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 
 }
 /* make container full window height and minus header */
