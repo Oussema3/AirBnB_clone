@@ -44,6 +44,11 @@ height: 100%;
 width: 25%;
 border-right: solid 1px #DDDDDD;
 }
+.filters h3 {
+font-weight: 600;
+margin-bottom: 0px;
+margin-left: 50px;
+}
 
 .filters h4 {
 margin-bottom: auto;
@@ -54,6 +59,7 @@ font-weight: 400;
 }
 
 ul.popover {
+list-style-type: none;
 background-color: #FAFAFA;
 border-radius: 4px;
 border: solid 1px #DDDDDD;
